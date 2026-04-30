@@ -619,12 +619,7 @@ uuid: ^4.0.0                      # Generate unique IDs
 - **Error Handling** — Comprehensive validation with user feedback
 - **Immutability** — All state changes use copyWith pattern
 
-## 🔗 Links
 
-- **GitHub Repository** — https://github.com/rohitchaudhary3147/pc-builder
-- **BLoC Documentation** — https://bloclibrary.dev
-- **Clean Architecture** — https://resocoder.com/flutter-clean-architecture
-- **Hardware Data Source** — https://github.com (component specifications)
 
 ## 📄 License
 
@@ -635,7 +630,7 @@ This project is open source and available under the MIT License.
 **Rohit Chaudhary**
 - 📧 Email: rodriguezrohit10@gmail.com
 - 🔗 LinkedIn: linkedin.com/in/rohitchaudhary3147
-- 🐙 GitHub: github.com/rohitchaudhary3147
+
 
 ---
 
